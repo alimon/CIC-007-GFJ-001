@@ -1,0 +1,3 @@
+[submodule "pyke3"]
+	path = pyke3
+	url = https://github.com/alimon/pyke3.git
