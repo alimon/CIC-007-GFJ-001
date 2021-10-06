@@ -1,0 +1,56 @@
+# questions.kqb
+
+have_runny_nose($ans)
+    ¿Tiene goteo nasal?
+    ---
+    $ans = yn
+
+have_sneezing($ans)
+    ¿Tiene estornudos?
+    ---
+    $ans = yn
+
+have_difficulty_breathing($ans)
+    ¿Tiene dificultad para respirar?
+    ---
+    $ans = yn
+
+have_throat_pain($ans)
+    ¿Tiene dolor de garganta?
+    ---
+    $ans = yn
+
+have_ear_pressure($ans)
+    ¿Tiene sensacion de presion en los oidos?
+    ---
+    $ans = yn
+
+have_crying_eyes($ans)
+    ¿Tiene ojos llorosos?
+    ---
+    $ans = yn
+
+have_head_pain($ans)
+    ¿Tiene dolor de cabeza?
+    ---
+    $ans = yn
+
+have_cough($ans)
+    ¿Tiene tos?
+    ---
+    $ans = yn
+
+have_general_pain($ans)
+    ¿Tiene malestar general?
+    ---
+    $ans = yn
+
+have_fever($ans)
+    ¿Tiene fiebre de moderada a alta?
+    ---
+    $ans = yn
+
+have_diarrhea($ans)
+    ¿Tiene diarrea asociada?
+    ---
+    $ans = yn

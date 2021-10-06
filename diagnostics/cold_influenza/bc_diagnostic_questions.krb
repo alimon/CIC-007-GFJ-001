@@ -1,0 +1,25 @@
+# bc_diagnostic_questions.krb
+
+give_me_diagnostic_cold
+    use give_me_diagnostic("Resfriado")
+    when
+        questions.have_runny_nose($ans)
+        questions.have_sneezing($ans)
+        questions.have_difficulty_breathing($ans)
+        questions.have_throat_pain($ans)
+
+give_me_diagnostic_cold_2
+    use give_me_diagnostic("Resfriado")
+    when
+        questions.have_runny_nose($ans)
+        questions.have_ear_pressure($ans)
+        questions.have_crying_eyes($ans)
+        questions.have_head_pain($ans)
+        questions.have_cough($ans)
+
+give_me_diagnostic_possible_influenza
+    use give_me_diagnostic("Influenza posible")
+    when
+        questions.have_general_pain($ans)
+        questions.have_fever($ans)
+        questions.have_diarrhea($ans)
