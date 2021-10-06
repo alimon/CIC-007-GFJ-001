@@ -28,7 +28,7 @@ questions = read_questions(sys.argv[1])
 
 # Next rules generation for cold and influenza diagnostic
 # Following the rules if has from 4-8 is cold
-# Following the rules if has from 2 + influenza is cold
+# Following the rules if has from 2 + diharria is influenza.
 
 # XXX: Suppose that last question is the influenza one
 influenza_question = questions.pop(-1)
@@ -44,7 +44,7 @@ for c in combinations(questions, 4):
     index = index + 1
 
 index = 1
-for c in combinations(questions, 4):
+for c in combinations(questions, 2):
     print("have_patient_influenza_{}".format(index))
     print("    use have_patient_influenza()")
     print("    when")

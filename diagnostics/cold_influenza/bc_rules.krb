@@ -1683,1887 +1683,312 @@ have_patient_influenza_1
     when
         questions.have_runny_nose(True)
         questions.have_sneezing(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_throat_pain(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_2
     use have_patient_influenza()
     when
         questions.have_runny_nose(True)
-        questions.have_sneezing(True)
         questions.have_difficulty_breathing(True)
-        questions.have_ear_pressure(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_3
     use have_patient_influenza()
     when
         questions.have_runny_nose(True)
-        questions.have_sneezing(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_crying_eyes(True)
+        questions.have_throat_pain(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_4
     use have_patient_influenza()
     when
         questions.have_runny_nose(True)
-        questions.have_sneezing(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_head_pain(True)
+        questions.have_ear_pressure(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_5
     use have_patient_influenza()
     when
         questions.have_runny_nose(True)
-        questions.have_sneezing(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_cough(True)
+        questions.have_crying_eyes(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_6
     use have_patient_influenza()
     when
         questions.have_runny_nose(True)
-        questions.have_sneezing(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_general_pain(True)
+        questions.have_head_pain(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_7
     use have_patient_influenza()
     when
         questions.have_runny_nose(True)
-        questions.have_sneezing(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_fever(True)
+        questions.have_cough(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_8
     use have_patient_influenza()
     when
         questions.have_runny_nose(True)
-        questions.have_sneezing(True)
-        questions.have_throat_pain(True)
-        questions.have_ear_pressure(True)
+        questions.have_general_pain(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_9
     use have_patient_influenza()
     when
         questions.have_runny_nose(True)
-        questions.have_sneezing(True)
-        questions.have_throat_pain(True)
-        questions.have_crying_eyes(True)
+        questions.have_fever(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_10
     use have_patient_influenza()
     when
-        questions.have_runny_nose(True)
         questions.have_sneezing(True)
-        questions.have_throat_pain(True)
-        questions.have_head_pain(True)
+        questions.have_difficulty_breathing(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_11
     use have_patient_influenza()
     when
-        questions.have_runny_nose(True)
         questions.have_sneezing(True)
         questions.have_throat_pain(True)
-        questions.have_cough(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_12
     use have_patient_influenza()
     when
-        questions.have_runny_nose(True)
         questions.have_sneezing(True)
-        questions.have_throat_pain(True)
-        questions.have_general_pain(True)
+        questions.have_ear_pressure(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_13
     use have_patient_influenza()
     when
-        questions.have_runny_nose(True)
         questions.have_sneezing(True)
-        questions.have_throat_pain(True)
-        questions.have_fever(True)
+        questions.have_crying_eyes(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_14
     use have_patient_influenza()
     when
-        questions.have_runny_nose(True)
         questions.have_sneezing(True)
-        questions.have_ear_pressure(True)
-        questions.have_crying_eyes(True)
+        questions.have_head_pain(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_15
     use have_patient_influenza()
     when
-        questions.have_runny_nose(True)
         questions.have_sneezing(True)
-        questions.have_ear_pressure(True)
-        questions.have_head_pain(True)
+        questions.have_cough(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_16
     use have_patient_influenza()
     when
-        questions.have_runny_nose(True)
         questions.have_sneezing(True)
-        questions.have_ear_pressure(True)
-        questions.have_cough(True)
+        questions.have_general_pain(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_17
     use have_patient_influenza()
     when
-        questions.have_runny_nose(True)
         questions.have_sneezing(True)
-        questions.have_ear_pressure(True)
-        questions.have_general_pain(True)
+        questions.have_fever(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_18
     use have_patient_influenza()
     when
-        questions.have_runny_nose(True)
-        questions.have_sneezing(True)
-        questions.have_ear_pressure(True)
-        questions.have_fever(True)
+        questions.have_difficulty_breathing(True)
+        questions.have_throat_pain(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_19
     use have_patient_influenza()
     when
-        questions.have_runny_nose(True)
-        questions.have_sneezing(True)
-        questions.have_crying_eyes(True)
-        questions.have_head_pain(True)
+        questions.have_difficulty_breathing(True)
+        questions.have_ear_pressure(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_20
     use have_patient_influenza()
     when
-        questions.have_runny_nose(True)
-        questions.have_sneezing(True)
+        questions.have_difficulty_breathing(True)
         questions.have_crying_eyes(True)
-        questions.have_cough(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_21
     use have_patient_influenza()
     when
-        questions.have_runny_nose(True)
-        questions.have_sneezing(True)
-        questions.have_crying_eyes(True)
-        questions.have_general_pain(True)
+        questions.have_difficulty_breathing(True)
+        questions.have_head_pain(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_22
     use have_patient_influenza()
     when
-        questions.have_runny_nose(True)
-        questions.have_sneezing(True)
-        questions.have_crying_eyes(True)
-        questions.have_fever(True)
+        questions.have_difficulty_breathing(True)
+        questions.have_cough(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_23
     use have_patient_influenza()
     when
-        questions.have_runny_nose(True)
-        questions.have_sneezing(True)
-        questions.have_head_pain(True)
-        questions.have_cough(True)
+        questions.have_difficulty_breathing(True)
+        questions.have_general_pain(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_24
     use have_patient_influenza()
     when
-        questions.have_runny_nose(True)
-        questions.have_sneezing(True)
-        questions.have_head_pain(True)
-        questions.have_general_pain(True)
+        questions.have_difficulty_breathing(True)
+        questions.have_fever(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_25
     use have_patient_influenza()
     when
-        questions.have_runny_nose(True)
-        questions.have_sneezing(True)
-        questions.have_head_pain(True)
-        questions.have_fever(True)
+        questions.have_throat_pain(True)
+        questions.have_ear_pressure(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_26
     use have_patient_influenza()
     when
-        questions.have_runny_nose(True)
-        questions.have_sneezing(True)
-        questions.have_cough(True)
-        questions.have_general_pain(True)
+        questions.have_throat_pain(True)
+        questions.have_crying_eyes(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_27
     use have_patient_influenza()
     when
-        questions.have_runny_nose(True)
-        questions.have_sneezing(True)
-        questions.have_cough(True)
-        questions.have_fever(True)
+        questions.have_throat_pain(True)
+        questions.have_head_pain(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_28
     use have_patient_influenza()
     when
-        questions.have_runny_nose(True)
-        questions.have_sneezing(True)
-        questions.have_general_pain(True)
-        questions.have_fever(True)
+        questions.have_throat_pain(True)
+        questions.have_cough(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_29
     use have_patient_influenza()
     when
-        questions.have_runny_nose(True)
-        questions.have_difficulty_breathing(True)
         questions.have_throat_pain(True)
-        questions.have_ear_pressure(True)
+        questions.have_general_pain(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_30
     use have_patient_influenza()
     when
-        questions.have_runny_nose(True)
-        questions.have_difficulty_breathing(True)
         questions.have_throat_pain(True)
-        questions.have_crying_eyes(True)
+        questions.have_fever(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_31
     use have_patient_influenza()
     when
-        questions.have_runny_nose(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_throat_pain(True)
-        questions.have_head_pain(True)
+        questions.have_ear_pressure(True)
+        questions.have_crying_eyes(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_32
     use have_patient_influenza()
     when
-        questions.have_runny_nose(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_throat_pain(True)
-        questions.have_cough(True)
+        questions.have_ear_pressure(True)
+        questions.have_head_pain(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_33
     use have_patient_influenza()
     when
-        questions.have_runny_nose(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_throat_pain(True)
-        questions.have_general_pain(True)
+        questions.have_ear_pressure(True)
+        questions.have_cough(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_34
     use have_patient_influenza()
     when
-        questions.have_runny_nose(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_throat_pain(True)
-        questions.have_fever(True)
+        questions.have_ear_pressure(True)
+        questions.have_general_pain(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_35
     use have_patient_influenza()
     when
-        questions.have_runny_nose(True)
-        questions.have_difficulty_breathing(True)
         questions.have_ear_pressure(True)
-        questions.have_crying_eyes(True)
+        questions.have_fever(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_36
     use have_patient_influenza()
     when
-        questions.have_runny_nose(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_ear_pressure(True)
+        questions.have_crying_eyes(True)
         questions.have_head_pain(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_37
     use have_patient_influenza()
     when
-        questions.have_runny_nose(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_ear_pressure(True)
+        questions.have_crying_eyes(True)
         questions.have_cough(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_38
     use have_patient_influenza()
     when
-        questions.have_runny_nose(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_ear_pressure(True)
+        questions.have_crying_eyes(True)
         questions.have_general_pain(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_39
     use have_patient_influenza()
     when
-        questions.have_runny_nose(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_ear_pressure(True)
+        questions.have_crying_eyes(True)
         questions.have_fever(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_40
     use have_patient_influenza()
     when
-        questions.have_runny_nose(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_crying_eyes(True)
         questions.have_head_pain(True)
+        questions.have_cough(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_41
     use have_patient_influenza()
     when
-        questions.have_runny_nose(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_crying_eyes(True)
-        questions.have_cough(True)
+        questions.have_head_pain(True)
+        questions.have_general_pain(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_42
     use have_patient_influenza()
     when
-        questions.have_runny_nose(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_crying_eyes(True)
-        questions.have_general_pain(True)
+        questions.have_head_pain(True)
+        questions.have_fever(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_43
     use have_patient_influenza()
     when
-        questions.have_runny_nose(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_crying_eyes(True)
-        questions.have_fever(True)
+        questions.have_cough(True)
+        questions.have_general_pain(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_44
     use have_patient_influenza()
     when
-        questions.have_runny_nose(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_head_pain(True)
         questions.have_cough(True)
+        questions.have_fever(True)
         questions.have_diarrhea(True)
 
 have_patient_influenza_45
     use have_patient_influenza()
     when
-        questions.have_runny_nose(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_head_pain(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_46
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_head_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_47
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_cough(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_48
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_cough(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_49
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_general_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_50
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_throat_pain(True)
-        questions.have_ear_pressure(True)
-        questions.have_crying_eyes(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_51
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_throat_pain(True)
-        questions.have_ear_pressure(True)
-        questions.have_head_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_52
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_throat_pain(True)
-        questions.have_ear_pressure(True)
-        questions.have_cough(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_53
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_throat_pain(True)
-        questions.have_ear_pressure(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_54
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_throat_pain(True)
-        questions.have_ear_pressure(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_55
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_throat_pain(True)
-        questions.have_crying_eyes(True)
-        questions.have_head_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_56
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_throat_pain(True)
-        questions.have_crying_eyes(True)
-        questions.have_cough(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_57
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_throat_pain(True)
-        questions.have_crying_eyes(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_58
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_throat_pain(True)
-        questions.have_crying_eyes(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_59
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_throat_pain(True)
-        questions.have_head_pain(True)
-        questions.have_cough(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_60
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_throat_pain(True)
-        questions.have_head_pain(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_61
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_throat_pain(True)
-        questions.have_head_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_62
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_throat_pain(True)
-        questions.have_cough(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_63
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_throat_pain(True)
-        questions.have_cough(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_64
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_throat_pain(True)
-        questions.have_general_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_65
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_ear_pressure(True)
-        questions.have_crying_eyes(True)
-        questions.have_head_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_66
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_ear_pressure(True)
-        questions.have_crying_eyes(True)
-        questions.have_cough(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_67
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_ear_pressure(True)
-        questions.have_crying_eyes(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_68
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_ear_pressure(True)
-        questions.have_crying_eyes(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_69
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_ear_pressure(True)
-        questions.have_head_pain(True)
-        questions.have_cough(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_70
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_ear_pressure(True)
-        questions.have_head_pain(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_71
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_ear_pressure(True)
-        questions.have_head_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_72
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_ear_pressure(True)
-        questions.have_cough(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_73
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_ear_pressure(True)
-        questions.have_cough(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_74
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_ear_pressure(True)
-        questions.have_general_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_75
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_crying_eyes(True)
-        questions.have_head_pain(True)
-        questions.have_cough(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_76
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_crying_eyes(True)
-        questions.have_head_pain(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_77
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_crying_eyes(True)
-        questions.have_head_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_78
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_crying_eyes(True)
-        questions.have_cough(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_79
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_crying_eyes(True)
-        questions.have_cough(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_80
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_crying_eyes(True)
-        questions.have_general_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_81
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_head_pain(True)
-        questions.have_cough(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_82
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_head_pain(True)
-        questions.have_cough(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_83
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_head_pain(True)
-        questions.have_general_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_84
-    use have_patient_influenza()
-    when
-        questions.have_runny_nose(True)
-        questions.have_cough(True)
-        questions.have_general_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_85
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_throat_pain(True)
-        questions.have_ear_pressure(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_86
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_throat_pain(True)
-        questions.have_crying_eyes(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_87
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_throat_pain(True)
-        questions.have_head_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_88
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_throat_pain(True)
-        questions.have_cough(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_89
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_throat_pain(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_90
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_throat_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_91
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_ear_pressure(True)
-        questions.have_crying_eyes(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_92
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_ear_pressure(True)
-        questions.have_head_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_93
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_ear_pressure(True)
-        questions.have_cough(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_94
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_ear_pressure(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_95
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_ear_pressure(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_96
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_crying_eyes(True)
-        questions.have_head_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_97
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_crying_eyes(True)
-        questions.have_cough(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_98
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_crying_eyes(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_99
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_crying_eyes(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_100
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_head_pain(True)
-        questions.have_cough(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_101
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_head_pain(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_102
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_head_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_103
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_cough(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_104
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_cough(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_105
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_difficulty_breathing(True)
-        questions.have_general_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_106
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_throat_pain(True)
-        questions.have_ear_pressure(True)
-        questions.have_crying_eyes(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_107
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_throat_pain(True)
-        questions.have_ear_pressure(True)
-        questions.have_head_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_108
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_throat_pain(True)
-        questions.have_ear_pressure(True)
-        questions.have_cough(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_109
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_throat_pain(True)
-        questions.have_ear_pressure(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_110
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_throat_pain(True)
-        questions.have_ear_pressure(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_111
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_throat_pain(True)
-        questions.have_crying_eyes(True)
-        questions.have_head_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_112
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_throat_pain(True)
-        questions.have_crying_eyes(True)
-        questions.have_cough(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_113
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_throat_pain(True)
-        questions.have_crying_eyes(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_114
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_throat_pain(True)
-        questions.have_crying_eyes(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_115
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_throat_pain(True)
-        questions.have_head_pain(True)
-        questions.have_cough(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_116
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_throat_pain(True)
-        questions.have_head_pain(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_117
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_throat_pain(True)
-        questions.have_head_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_118
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_throat_pain(True)
-        questions.have_cough(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_119
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_throat_pain(True)
-        questions.have_cough(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_120
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_throat_pain(True)
-        questions.have_general_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_121
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_ear_pressure(True)
-        questions.have_crying_eyes(True)
-        questions.have_head_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_122
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_ear_pressure(True)
-        questions.have_crying_eyes(True)
-        questions.have_cough(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_123
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_ear_pressure(True)
-        questions.have_crying_eyes(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_124
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_ear_pressure(True)
-        questions.have_crying_eyes(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_125
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_ear_pressure(True)
-        questions.have_head_pain(True)
-        questions.have_cough(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_126
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_ear_pressure(True)
-        questions.have_head_pain(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_127
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_ear_pressure(True)
-        questions.have_head_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_128
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_ear_pressure(True)
-        questions.have_cough(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_129
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_ear_pressure(True)
-        questions.have_cough(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_130
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_ear_pressure(True)
-        questions.have_general_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_131
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_crying_eyes(True)
-        questions.have_head_pain(True)
-        questions.have_cough(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_132
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_crying_eyes(True)
-        questions.have_head_pain(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_133
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_crying_eyes(True)
-        questions.have_head_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_134
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_crying_eyes(True)
-        questions.have_cough(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_135
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_crying_eyes(True)
-        questions.have_cough(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_136
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_crying_eyes(True)
-        questions.have_general_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_137
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_head_pain(True)
-        questions.have_cough(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_138
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_head_pain(True)
-        questions.have_cough(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_139
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_head_pain(True)
-        questions.have_general_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_140
-    use have_patient_influenza()
-    when
-        questions.have_sneezing(True)
-        questions.have_cough(True)
-        questions.have_general_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_141
-    use have_patient_influenza()
-    when
-        questions.have_difficulty_breathing(True)
-        questions.have_throat_pain(True)
-        questions.have_ear_pressure(True)
-        questions.have_crying_eyes(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_142
-    use have_patient_influenza()
-    when
-        questions.have_difficulty_breathing(True)
-        questions.have_throat_pain(True)
-        questions.have_ear_pressure(True)
-        questions.have_head_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_143
-    use have_patient_influenza()
-    when
-        questions.have_difficulty_breathing(True)
-        questions.have_throat_pain(True)
-        questions.have_ear_pressure(True)
-        questions.have_cough(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_144
-    use have_patient_influenza()
-    when
-        questions.have_difficulty_breathing(True)
-        questions.have_throat_pain(True)
-        questions.have_ear_pressure(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_145
-    use have_patient_influenza()
-    when
-        questions.have_difficulty_breathing(True)
-        questions.have_throat_pain(True)
-        questions.have_ear_pressure(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_146
-    use have_patient_influenza()
-    when
-        questions.have_difficulty_breathing(True)
-        questions.have_throat_pain(True)
-        questions.have_crying_eyes(True)
-        questions.have_head_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_147
-    use have_patient_influenza()
-    when
-        questions.have_difficulty_breathing(True)
-        questions.have_throat_pain(True)
-        questions.have_crying_eyes(True)
-        questions.have_cough(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_148
-    use have_patient_influenza()
-    when
-        questions.have_difficulty_breathing(True)
-        questions.have_throat_pain(True)
-        questions.have_crying_eyes(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_149
-    use have_patient_influenza()
-    when
-        questions.have_difficulty_breathing(True)
-        questions.have_throat_pain(True)
-        questions.have_crying_eyes(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_150
-    use have_patient_influenza()
-    when
-        questions.have_difficulty_breathing(True)
-        questions.have_throat_pain(True)
-        questions.have_head_pain(True)
-        questions.have_cough(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_151
-    use have_patient_influenza()
-    when
-        questions.have_difficulty_breathing(True)
-        questions.have_throat_pain(True)
-        questions.have_head_pain(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_152
-    use have_patient_influenza()
-    when
-        questions.have_difficulty_breathing(True)
-        questions.have_throat_pain(True)
-        questions.have_head_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_153
-    use have_patient_influenza()
-    when
-        questions.have_difficulty_breathing(True)
-        questions.have_throat_pain(True)
-        questions.have_cough(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_154
-    use have_patient_influenza()
-    when
-        questions.have_difficulty_breathing(True)
-        questions.have_throat_pain(True)
-        questions.have_cough(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_155
-    use have_patient_influenza()
-    when
-        questions.have_difficulty_breathing(True)
-        questions.have_throat_pain(True)
-        questions.have_general_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_156
-    use have_patient_influenza()
-    when
-        questions.have_difficulty_breathing(True)
-        questions.have_ear_pressure(True)
-        questions.have_crying_eyes(True)
-        questions.have_head_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_157
-    use have_patient_influenza()
-    when
-        questions.have_difficulty_breathing(True)
-        questions.have_ear_pressure(True)
-        questions.have_crying_eyes(True)
-        questions.have_cough(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_158
-    use have_patient_influenza()
-    when
-        questions.have_difficulty_breathing(True)
-        questions.have_ear_pressure(True)
-        questions.have_crying_eyes(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_159
-    use have_patient_influenza()
-    when
-        questions.have_difficulty_breathing(True)
-        questions.have_ear_pressure(True)
-        questions.have_crying_eyes(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_160
-    use have_patient_influenza()
-    when
-        questions.have_difficulty_breathing(True)
-        questions.have_ear_pressure(True)
-        questions.have_head_pain(True)
-        questions.have_cough(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_161
-    use have_patient_influenza()
-    when
-        questions.have_difficulty_breathing(True)
-        questions.have_ear_pressure(True)
-        questions.have_head_pain(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_162
-    use have_patient_influenza()
-    when
-        questions.have_difficulty_breathing(True)
-        questions.have_ear_pressure(True)
-        questions.have_head_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_163
-    use have_patient_influenza()
-    when
-        questions.have_difficulty_breathing(True)
-        questions.have_ear_pressure(True)
-        questions.have_cough(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_164
-    use have_patient_influenza()
-    when
-        questions.have_difficulty_breathing(True)
-        questions.have_ear_pressure(True)
-        questions.have_cough(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_165
-    use have_patient_influenza()
-    when
-        questions.have_difficulty_breathing(True)
-        questions.have_ear_pressure(True)
-        questions.have_general_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_166
-    use have_patient_influenza()
-    when
-        questions.have_difficulty_breathing(True)
-        questions.have_crying_eyes(True)
-        questions.have_head_pain(True)
-        questions.have_cough(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_167
-    use have_patient_influenza()
-    when
-        questions.have_difficulty_breathing(True)
-        questions.have_crying_eyes(True)
-        questions.have_head_pain(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_168
-    use have_patient_influenza()
-    when
-        questions.have_difficulty_breathing(True)
-        questions.have_crying_eyes(True)
-        questions.have_head_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_169
-    use have_patient_influenza()
-    when
-        questions.have_difficulty_breathing(True)
-        questions.have_crying_eyes(True)
-        questions.have_cough(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_170
-    use have_patient_influenza()
-    when
-        questions.have_difficulty_breathing(True)
-        questions.have_crying_eyes(True)
-        questions.have_cough(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_171
-    use have_patient_influenza()
-    when
-        questions.have_difficulty_breathing(True)
-        questions.have_crying_eyes(True)
-        questions.have_general_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_172
-    use have_patient_influenza()
-    when
-        questions.have_difficulty_breathing(True)
-        questions.have_head_pain(True)
-        questions.have_cough(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_173
-    use have_patient_influenza()
-    when
-        questions.have_difficulty_breathing(True)
-        questions.have_head_pain(True)
-        questions.have_cough(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_174
-    use have_patient_influenza()
-    when
-        questions.have_difficulty_breathing(True)
-        questions.have_head_pain(True)
-        questions.have_general_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_175
-    use have_patient_influenza()
-    when
-        questions.have_difficulty_breathing(True)
-        questions.have_cough(True)
-        questions.have_general_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_176
-    use have_patient_influenza()
-    when
-        questions.have_throat_pain(True)
-        questions.have_ear_pressure(True)
-        questions.have_crying_eyes(True)
-        questions.have_head_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_177
-    use have_patient_influenza()
-    when
-        questions.have_throat_pain(True)
-        questions.have_ear_pressure(True)
-        questions.have_crying_eyes(True)
-        questions.have_cough(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_178
-    use have_patient_influenza()
-    when
-        questions.have_throat_pain(True)
-        questions.have_ear_pressure(True)
-        questions.have_crying_eyes(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_179
-    use have_patient_influenza()
-    when
-        questions.have_throat_pain(True)
-        questions.have_ear_pressure(True)
-        questions.have_crying_eyes(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_180
-    use have_patient_influenza()
-    when
-        questions.have_throat_pain(True)
-        questions.have_ear_pressure(True)
-        questions.have_head_pain(True)
-        questions.have_cough(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_181
-    use have_patient_influenza()
-    when
-        questions.have_throat_pain(True)
-        questions.have_ear_pressure(True)
-        questions.have_head_pain(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_182
-    use have_patient_influenza()
-    when
-        questions.have_throat_pain(True)
-        questions.have_ear_pressure(True)
-        questions.have_head_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_183
-    use have_patient_influenza()
-    when
-        questions.have_throat_pain(True)
-        questions.have_ear_pressure(True)
-        questions.have_cough(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_184
-    use have_patient_influenza()
-    when
-        questions.have_throat_pain(True)
-        questions.have_ear_pressure(True)
-        questions.have_cough(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_185
-    use have_patient_influenza()
-    when
-        questions.have_throat_pain(True)
-        questions.have_ear_pressure(True)
-        questions.have_general_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_186
-    use have_patient_influenza()
-    when
-        questions.have_throat_pain(True)
-        questions.have_crying_eyes(True)
-        questions.have_head_pain(True)
-        questions.have_cough(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_187
-    use have_patient_influenza()
-    when
-        questions.have_throat_pain(True)
-        questions.have_crying_eyes(True)
-        questions.have_head_pain(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_188
-    use have_patient_influenza()
-    when
-        questions.have_throat_pain(True)
-        questions.have_crying_eyes(True)
-        questions.have_head_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_189
-    use have_patient_influenza()
-    when
-        questions.have_throat_pain(True)
-        questions.have_crying_eyes(True)
-        questions.have_cough(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_190
-    use have_patient_influenza()
-    when
-        questions.have_throat_pain(True)
-        questions.have_crying_eyes(True)
-        questions.have_cough(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_191
-    use have_patient_influenza()
-    when
-        questions.have_throat_pain(True)
-        questions.have_crying_eyes(True)
-        questions.have_general_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_192
-    use have_patient_influenza()
-    when
-        questions.have_throat_pain(True)
-        questions.have_head_pain(True)
-        questions.have_cough(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_193
-    use have_patient_influenza()
-    when
-        questions.have_throat_pain(True)
-        questions.have_head_pain(True)
-        questions.have_cough(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_194
-    use have_patient_influenza()
-    when
-        questions.have_throat_pain(True)
-        questions.have_head_pain(True)
-        questions.have_general_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_195
-    use have_patient_influenza()
-    when
-        questions.have_throat_pain(True)
-        questions.have_cough(True)
-        questions.have_general_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_196
-    use have_patient_influenza()
-    when
-        questions.have_ear_pressure(True)
-        questions.have_crying_eyes(True)
-        questions.have_head_pain(True)
-        questions.have_cough(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_197
-    use have_patient_influenza()
-    when
-        questions.have_ear_pressure(True)
-        questions.have_crying_eyes(True)
-        questions.have_head_pain(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_198
-    use have_patient_influenza()
-    when
-        questions.have_ear_pressure(True)
-        questions.have_crying_eyes(True)
-        questions.have_head_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_199
-    use have_patient_influenza()
-    when
-        questions.have_ear_pressure(True)
-        questions.have_crying_eyes(True)
-        questions.have_cough(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_200
-    use have_patient_influenza()
-    when
-        questions.have_ear_pressure(True)
-        questions.have_crying_eyes(True)
-        questions.have_cough(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_201
-    use have_patient_influenza()
-    when
-        questions.have_ear_pressure(True)
-        questions.have_crying_eyes(True)
-        questions.have_general_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_202
-    use have_patient_influenza()
-    when
-        questions.have_ear_pressure(True)
-        questions.have_head_pain(True)
-        questions.have_cough(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_203
-    use have_patient_influenza()
-    when
-        questions.have_ear_pressure(True)
-        questions.have_head_pain(True)
-        questions.have_cough(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_204
-    use have_patient_influenza()
-    when
-        questions.have_ear_pressure(True)
-        questions.have_head_pain(True)
-        questions.have_general_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_205
-    use have_patient_influenza()
-    when
-        questions.have_ear_pressure(True)
-        questions.have_cough(True)
-        questions.have_general_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_206
-    use have_patient_influenza()
-    when
-        questions.have_crying_eyes(True)
-        questions.have_head_pain(True)
-        questions.have_cough(True)
-        questions.have_general_pain(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_207
-    use have_patient_influenza()
-    when
-        questions.have_crying_eyes(True)
-        questions.have_head_pain(True)
-        questions.have_cough(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_208
-    use have_patient_influenza()
-    when
-        questions.have_crying_eyes(True)
-        questions.have_head_pain(True)
-        questions.have_general_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_209
-    use have_patient_influenza()
-    when
-        questions.have_crying_eyes(True)
-        questions.have_cough(True)
-        questions.have_general_pain(True)
-        questions.have_fever(True)
-        questions.have_diarrhea(True)
-
-have_patient_influenza_210
-    use have_patient_influenza()
-    when
-        questions.have_head_pain(True)
-        questions.have_cough(True)
         questions.have_general_pain(True)
         questions.have_fever(True)
         questions.have_diarrhea(True)
