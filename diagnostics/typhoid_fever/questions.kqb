@@ -1,0 +1,46 @@
+# questions.kqb
+
+have_diffuse_abdominal_discomfort($ans)
+    ¿Tiene molestias abdominales difusas?
+    ---
+    $ans = yn
+
+have_coff($ans)
+    ¿Tiene tos?
+    ---
+    $ans = yn
+
+have_constipation($ans)
+    ¿Tiene extrenimiento?
+    ---
+    $ans = yn
+
+have_intense_headpain($ans)
+    ¿Tiene cefalea intensa?
+    ---
+    $ans = yn
+
+have_fever($ans)
+    ¿Tiene fiebre elevada de 39.5 C o mas?
+    ---
+    $ans = yn
+
+have_fast_heart($ans)
+    ¿Tiene incremento paralelo del numero de pulsaciones por minuto?
+    ---
+    $ans = yn
+
+have_postrate($ans)
+    ¿Permanece postrado?
+    ---
+    $ans = yn
+
+have_dry_tounge($ans)
+    ¿Tiene sequedad de lengua?
+    ---
+    $ans = yn
+
+have_abdominal_shrink_rash($ans)
+    ¿Tiene erupcion cutanea en el abdomen que se extiende al torax?
+    ---
+    $ans = yn

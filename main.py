@@ -9,9 +9,10 @@ CURRENT_DIR = os.getcwd()
 DATABASE_FILE = os.path.join(CURRENT_DIR, "main.db")
 
 diagnostics_supported = { 
-        "Influenza" : os.path.join(CURRENT_DIR, "diagnostics/cold_influenza")
+        "Influenza" : os.path.join(CURRENT_DIR, "diagnostics/cold_influenza"),
+        "Fiebre tifoidea" : os.path.join(CURRENT_DIR, "diagnostics/typhoid_fever")
 }
-diagnostics_list = [ "Influenza" ]
+diagnostics_list = [ "Influenza", "Fiebre tifoidea" ]
 
 def _validate_user(db_conn, username, password):
     cur = db_conn.cursor()

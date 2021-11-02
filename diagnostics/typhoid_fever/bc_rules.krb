@@ -1,0 +1,1134 @@
+have_patient_typhoid_fever_1
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_coff(True)
+        questions.have_constipation(True)
+        questions.have_intense_headpain(True)
+        questions.have_fever(True)
+
+have_patient_typhoid_fever_2
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_coff(True)
+        questions.have_constipation(True)
+        questions.have_intense_headpain(True)
+        questions.have_fast_heart(True)
+
+have_patient_typhoid_fever_3
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_coff(True)
+        questions.have_constipation(True)
+        questions.have_intense_headpain(True)
+        questions.have_postrate(True)
+
+have_patient_typhoid_fever_4
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_coff(True)
+        questions.have_constipation(True)
+        questions.have_intense_headpain(True)
+        questions.have_dry_tounge(True)
+
+have_patient_typhoid_fever_5
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_coff(True)
+        questions.have_constipation(True)
+        questions.have_intense_headpain(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_6
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_coff(True)
+        questions.have_constipation(True)
+        questions.have_fever(True)
+        questions.have_fast_heart(True)
+
+have_patient_typhoid_fever_7
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_coff(True)
+        questions.have_constipation(True)
+        questions.have_fever(True)
+        questions.have_postrate(True)
+
+have_patient_typhoid_fever_8
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_coff(True)
+        questions.have_constipation(True)
+        questions.have_fever(True)
+        questions.have_dry_tounge(True)
+
+have_patient_typhoid_fever_9
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_coff(True)
+        questions.have_constipation(True)
+        questions.have_fever(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_10
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_coff(True)
+        questions.have_constipation(True)
+        questions.have_fast_heart(True)
+        questions.have_postrate(True)
+
+have_patient_typhoid_fever_11
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_coff(True)
+        questions.have_constipation(True)
+        questions.have_fast_heart(True)
+        questions.have_dry_tounge(True)
+
+have_patient_typhoid_fever_12
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_coff(True)
+        questions.have_constipation(True)
+        questions.have_fast_heart(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_13
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_coff(True)
+        questions.have_constipation(True)
+        questions.have_postrate(True)
+        questions.have_dry_tounge(True)
+
+have_patient_typhoid_fever_14
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_coff(True)
+        questions.have_constipation(True)
+        questions.have_postrate(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_15
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_coff(True)
+        questions.have_constipation(True)
+        questions.have_dry_tounge(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_16
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_coff(True)
+        questions.have_intense_headpain(True)
+        questions.have_fever(True)
+        questions.have_fast_heart(True)
+
+have_patient_typhoid_fever_17
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_coff(True)
+        questions.have_intense_headpain(True)
+        questions.have_fever(True)
+        questions.have_postrate(True)
+
+have_patient_typhoid_fever_18
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_coff(True)
+        questions.have_intense_headpain(True)
+        questions.have_fever(True)
+        questions.have_dry_tounge(True)
+
+have_patient_typhoid_fever_19
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_coff(True)
+        questions.have_intense_headpain(True)
+        questions.have_fever(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_20
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_coff(True)
+        questions.have_intense_headpain(True)
+        questions.have_fast_heart(True)
+        questions.have_postrate(True)
+
+have_patient_typhoid_fever_21
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_coff(True)
+        questions.have_intense_headpain(True)
+        questions.have_fast_heart(True)
+        questions.have_dry_tounge(True)
+
+have_patient_typhoid_fever_22
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_coff(True)
+        questions.have_intense_headpain(True)
+        questions.have_fast_heart(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_23
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_coff(True)
+        questions.have_intense_headpain(True)
+        questions.have_postrate(True)
+        questions.have_dry_tounge(True)
+
+have_patient_typhoid_fever_24
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_coff(True)
+        questions.have_intense_headpain(True)
+        questions.have_postrate(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_25
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_coff(True)
+        questions.have_intense_headpain(True)
+        questions.have_dry_tounge(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_26
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_coff(True)
+        questions.have_fever(True)
+        questions.have_fast_heart(True)
+        questions.have_postrate(True)
+
+have_patient_typhoid_fever_27
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_coff(True)
+        questions.have_fever(True)
+        questions.have_fast_heart(True)
+        questions.have_dry_tounge(True)
+
+have_patient_typhoid_fever_28
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_coff(True)
+        questions.have_fever(True)
+        questions.have_fast_heart(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_29
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_coff(True)
+        questions.have_fever(True)
+        questions.have_postrate(True)
+        questions.have_dry_tounge(True)
+
+have_patient_typhoid_fever_30
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_coff(True)
+        questions.have_fever(True)
+        questions.have_postrate(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_31
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_coff(True)
+        questions.have_fever(True)
+        questions.have_dry_tounge(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_32
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_coff(True)
+        questions.have_fast_heart(True)
+        questions.have_postrate(True)
+        questions.have_dry_tounge(True)
+
+have_patient_typhoid_fever_33
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_coff(True)
+        questions.have_fast_heart(True)
+        questions.have_postrate(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_34
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_coff(True)
+        questions.have_fast_heart(True)
+        questions.have_dry_tounge(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_35
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_coff(True)
+        questions.have_postrate(True)
+        questions.have_dry_tounge(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_36
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_constipation(True)
+        questions.have_intense_headpain(True)
+        questions.have_fever(True)
+        questions.have_fast_heart(True)
+
+have_patient_typhoid_fever_37
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_constipation(True)
+        questions.have_intense_headpain(True)
+        questions.have_fever(True)
+        questions.have_postrate(True)
+
+have_patient_typhoid_fever_38
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_constipation(True)
+        questions.have_intense_headpain(True)
+        questions.have_fever(True)
+        questions.have_dry_tounge(True)
+
+have_patient_typhoid_fever_39
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_constipation(True)
+        questions.have_intense_headpain(True)
+        questions.have_fever(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_40
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_constipation(True)
+        questions.have_intense_headpain(True)
+        questions.have_fast_heart(True)
+        questions.have_postrate(True)
+
+have_patient_typhoid_fever_41
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_constipation(True)
+        questions.have_intense_headpain(True)
+        questions.have_fast_heart(True)
+        questions.have_dry_tounge(True)
+
+have_patient_typhoid_fever_42
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_constipation(True)
+        questions.have_intense_headpain(True)
+        questions.have_fast_heart(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_43
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_constipation(True)
+        questions.have_intense_headpain(True)
+        questions.have_postrate(True)
+        questions.have_dry_tounge(True)
+
+have_patient_typhoid_fever_44
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_constipation(True)
+        questions.have_intense_headpain(True)
+        questions.have_postrate(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_45
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_constipation(True)
+        questions.have_intense_headpain(True)
+        questions.have_dry_tounge(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_46
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_constipation(True)
+        questions.have_fever(True)
+        questions.have_fast_heart(True)
+        questions.have_postrate(True)
+
+have_patient_typhoid_fever_47
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_constipation(True)
+        questions.have_fever(True)
+        questions.have_fast_heart(True)
+        questions.have_dry_tounge(True)
+
+have_patient_typhoid_fever_48
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_constipation(True)
+        questions.have_fever(True)
+        questions.have_fast_heart(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_49
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_constipation(True)
+        questions.have_fever(True)
+        questions.have_postrate(True)
+        questions.have_dry_tounge(True)
+
+have_patient_typhoid_fever_50
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_constipation(True)
+        questions.have_fever(True)
+        questions.have_postrate(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_51
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_constipation(True)
+        questions.have_fever(True)
+        questions.have_dry_tounge(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_52
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_constipation(True)
+        questions.have_fast_heart(True)
+        questions.have_postrate(True)
+        questions.have_dry_tounge(True)
+
+have_patient_typhoid_fever_53
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_constipation(True)
+        questions.have_fast_heart(True)
+        questions.have_postrate(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_54
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_constipation(True)
+        questions.have_fast_heart(True)
+        questions.have_dry_tounge(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_55
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_constipation(True)
+        questions.have_postrate(True)
+        questions.have_dry_tounge(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_56
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_intense_headpain(True)
+        questions.have_fever(True)
+        questions.have_fast_heart(True)
+        questions.have_postrate(True)
+
+have_patient_typhoid_fever_57
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_intense_headpain(True)
+        questions.have_fever(True)
+        questions.have_fast_heart(True)
+        questions.have_dry_tounge(True)
+
+have_patient_typhoid_fever_58
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_intense_headpain(True)
+        questions.have_fever(True)
+        questions.have_fast_heart(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_59
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_intense_headpain(True)
+        questions.have_fever(True)
+        questions.have_postrate(True)
+        questions.have_dry_tounge(True)
+
+have_patient_typhoid_fever_60
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_intense_headpain(True)
+        questions.have_fever(True)
+        questions.have_postrate(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_61
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_intense_headpain(True)
+        questions.have_fever(True)
+        questions.have_dry_tounge(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_62
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_intense_headpain(True)
+        questions.have_fast_heart(True)
+        questions.have_postrate(True)
+        questions.have_dry_tounge(True)
+
+have_patient_typhoid_fever_63
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_intense_headpain(True)
+        questions.have_fast_heart(True)
+        questions.have_postrate(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_64
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_intense_headpain(True)
+        questions.have_fast_heart(True)
+        questions.have_dry_tounge(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_65
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_intense_headpain(True)
+        questions.have_postrate(True)
+        questions.have_dry_tounge(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_66
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_fever(True)
+        questions.have_fast_heart(True)
+        questions.have_postrate(True)
+        questions.have_dry_tounge(True)
+
+have_patient_typhoid_fever_67
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_fever(True)
+        questions.have_fast_heart(True)
+        questions.have_postrate(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_68
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_fever(True)
+        questions.have_fast_heart(True)
+        questions.have_dry_tounge(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_69
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_fever(True)
+        questions.have_postrate(True)
+        questions.have_dry_tounge(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_70
+    use have_patient_typhoid_fever()
+    when
+        questions.have_diffuse_abdominal_discomfort(True)
+        questions.have_fast_heart(True)
+        questions.have_postrate(True)
+        questions.have_dry_tounge(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_71
+    use have_patient_typhoid_fever()
+    when
+        questions.have_coff(True)
+        questions.have_constipation(True)
+        questions.have_intense_headpain(True)
+        questions.have_fever(True)
+        questions.have_fast_heart(True)
+
+have_patient_typhoid_fever_72
+    use have_patient_typhoid_fever()
+    when
+        questions.have_coff(True)
+        questions.have_constipation(True)
+        questions.have_intense_headpain(True)
+        questions.have_fever(True)
+        questions.have_postrate(True)
+
+have_patient_typhoid_fever_73
+    use have_patient_typhoid_fever()
+    when
+        questions.have_coff(True)
+        questions.have_constipation(True)
+        questions.have_intense_headpain(True)
+        questions.have_fever(True)
+        questions.have_dry_tounge(True)
+
+have_patient_typhoid_fever_74
+    use have_patient_typhoid_fever()
+    when
+        questions.have_coff(True)
+        questions.have_constipation(True)
+        questions.have_intense_headpain(True)
+        questions.have_fever(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_75
+    use have_patient_typhoid_fever()
+    when
+        questions.have_coff(True)
+        questions.have_constipation(True)
+        questions.have_intense_headpain(True)
+        questions.have_fast_heart(True)
+        questions.have_postrate(True)
+
+have_patient_typhoid_fever_76
+    use have_patient_typhoid_fever()
+    when
+        questions.have_coff(True)
+        questions.have_constipation(True)
+        questions.have_intense_headpain(True)
+        questions.have_fast_heart(True)
+        questions.have_dry_tounge(True)
+
+have_patient_typhoid_fever_77
+    use have_patient_typhoid_fever()
+    when
+        questions.have_coff(True)
+        questions.have_constipation(True)
+        questions.have_intense_headpain(True)
+        questions.have_fast_heart(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_78
+    use have_patient_typhoid_fever()
+    when
+        questions.have_coff(True)
+        questions.have_constipation(True)
+        questions.have_intense_headpain(True)
+        questions.have_postrate(True)
+        questions.have_dry_tounge(True)
+
+have_patient_typhoid_fever_79
+    use have_patient_typhoid_fever()
+    when
+        questions.have_coff(True)
+        questions.have_constipation(True)
+        questions.have_intense_headpain(True)
+        questions.have_postrate(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_80
+    use have_patient_typhoid_fever()
+    when
+        questions.have_coff(True)
+        questions.have_constipation(True)
+        questions.have_intense_headpain(True)
+        questions.have_dry_tounge(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_81
+    use have_patient_typhoid_fever()
+    when
+        questions.have_coff(True)
+        questions.have_constipation(True)
+        questions.have_fever(True)
+        questions.have_fast_heart(True)
+        questions.have_postrate(True)
+
+have_patient_typhoid_fever_82
+    use have_patient_typhoid_fever()
+    when
+        questions.have_coff(True)
+        questions.have_constipation(True)
+        questions.have_fever(True)
+        questions.have_fast_heart(True)
+        questions.have_dry_tounge(True)
+
+have_patient_typhoid_fever_83
+    use have_patient_typhoid_fever()
+    when
+        questions.have_coff(True)
+        questions.have_constipation(True)
+        questions.have_fever(True)
+        questions.have_fast_heart(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_84
+    use have_patient_typhoid_fever()
+    when
+        questions.have_coff(True)
+        questions.have_constipation(True)
+        questions.have_fever(True)
+        questions.have_postrate(True)
+        questions.have_dry_tounge(True)
+
+have_patient_typhoid_fever_85
+    use have_patient_typhoid_fever()
+    when
+        questions.have_coff(True)
+        questions.have_constipation(True)
+        questions.have_fever(True)
+        questions.have_postrate(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_86
+    use have_patient_typhoid_fever()
+    when
+        questions.have_coff(True)
+        questions.have_constipation(True)
+        questions.have_fever(True)
+        questions.have_dry_tounge(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_87
+    use have_patient_typhoid_fever()
+    when
+        questions.have_coff(True)
+        questions.have_constipation(True)
+        questions.have_fast_heart(True)
+        questions.have_postrate(True)
+        questions.have_dry_tounge(True)
+
+have_patient_typhoid_fever_88
+    use have_patient_typhoid_fever()
+    when
+        questions.have_coff(True)
+        questions.have_constipation(True)
+        questions.have_fast_heart(True)
+        questions.have_postrate(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_89
+    use have_patient_typhoid_fever()
+    when
+        questions.have_coff(True)
+        questions.have_constipation(True)
+        questions.have_fast_heart(True)
+        questions.have_dry_tounge(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_90
+    use have_patient_typhoid_fever()
+    when
+        questions.have_coff(True)
+        questions.have_constipation(True)
+        questions.have_postrate(True)
+        questions.have_dry_tounge(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_91
+    use have_patient_typhoid_fever()
+    when
+        questions.have_coff(True)
+        questions.have_intense_headpain(True)
+        questions.have_fever(True)
+        questions.have_fast_heart(True)
+        questions.have_postrate(True)
+
+have_patient_typhoid_fever_92
+    use have_patient_typhoid_fever()
+    when
+        questions.have_coff(True)
+        questions.have_intense_headpain(True)
+        questions.have_fever(True)
+        questions.have_fast_heart(True)
+        questions.have_dry_tounge(True)
+
+have_patient_typhoid_fever_93
+    use have_patient_typhoid_fever()
+    when
+        questions.have_coff(True)
+        questions.have_intense_headpain(True)
+        questions.have_fever(True)
+        questions.have_fast_heart(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_94
+    use have_patient_typhoid_fever()
+    when
+        questions.have_coff(True)
+        questions.have_intense_headpain(True)
+        questions.have_fever(True)
+        questions.have_postrate(True)
+        questions.have_dry_tounge(True)
+
+have_patient_typhoid_fever_95
+    use have_patient_typhoid_fever()
+    when
+        questions.have_coff(True)
+        questions.have_intense_headpain(True)
+        questions.have_fever(True)
+        questions.have_postrate(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_96
+    use have_patient_typhoid_fever()
+    when
+        questions.have_coff(True)
+        questions.have_intense_headpain(True)
+        questions.have_fever(True)
+        questions.have_dry_tounge(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_97
+    use have_patient_typhoid_fever()
+    when
+        questions.have_coff(True)
+        questions.have_intense_headpain(True)
+        questions.have_fast_heart(True)
+        questions.have_postrate(True)
+        questions.have_dry_tounge(True)
+
+have_patient_typhoid_fever_98
+    use have_patient_typhoid_fever()
+    when
+        questions.have_coff(True)
+        questions.have_intense_headpain(True)
+        questions.have_fast_heart(True)
+        questions.have_postrate(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_99
+    use have_patient_typhoid_fever()
+    when
+        questions.have_coff(True)
+        questions.have_intense_headpain(True)
+        questions.have_fast_heart(True)
+        questions.have_dry_tounge(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_100
+    use have_patient_typhoid_fever()
+    when
+        questions.have_coff(True)
+        questions.have_intense_headpain(True)
+        questions.have_postrate(True)
+        questions.have_dry_tounge(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_101
+    use have_patient_typhoid_fever()
+    when
+        questions.have_coff(True)
+        questions.have_fever(True)
+        questions.have_fast_heart(True)
+        questions.have_postrate(True)
+        questions.have_dry_tounge(True)
+
+have_patient_typhoid_fever_102
+    use have_patient_typhoid_fever()
+    when
+        questions.have_coff(True)
+        questions.have_fever(True)
+        questions.have_fast_heart(True)
+        questions.have_postrate(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_103
+    use have_patient_typhoid_fever()
+    when
+        questions.have_coff(True)
+        questions.have_fever(True)
+        questions.have_fast_heart(True)
+        questions.have_dry_tounge(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_104
+    use have_patient_typhoid_fever()
+    when
+        questions.have_coff(True)
+        questions.have_fever(True)
+        questions.have_postrate(True)
+        questions.have_dry_tounge(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_105
+    use have_patient_typhoid_fever()
+    when
+        questions.have_coff(True)
+        questions.have_fast_heart(True)
+        questions.have_postrate(True)
+        questions.have_dry_tounge(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_106
+    use have_patient_typhoid_fever()
+    when
+        questions.have_constipation(True)
+        questions.have_intense_headpain(True)
+        questions.have_fever(True)
+        questions.have_fast_heart(True)
+        questions.have_postrate(True)
+
+have_patient_typhoid_fever_107
+    use have_patient_typhoid_fever()
+    when
+        questions.have_constipation(True)
+        questions.have_intense_headpain(True)
+        questions.have_fever(True)
+        questions.have_fast_heart(True)
+        questions.have_dry_tounge(True)
+
+have_patient_typhoid_fever_108
+    use have_patient_typhoid_fever()
+    when
+        questions.have_constipation(True)
+        questions.have_intense_headpain(True)
+        questions.have_fever(True)
+        questions.have_fast_heart(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_109
+    use have_patient_typhoid_fever()
+    when
+        questions.have_constipation(True)
+        questions.have_intense_headpain(True)
+        questions.have_fever(True)
+        questions.have_postrate(True)
+        questions.have_dry_tounge(True)
+
+have_patient_typhoid_fever_110
+    use have_patient_typhoid_fever()
+    when
+        questions.have_constipation(True)
+        questions.have_intense_headpain(True)
+        questions.have_fever(True)
+        questions.have_postrate(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_111
+    use have_patient_typhoid_fever()
+    when
+        questions.have_constipation(True)
+        questions.have_intense_headpain(True)
+        questions.have_fever(True)
+        questions.have_dry_tounge(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_112
+    use have_patient_typhoid_fever()
+    when
+        questions.have_constipation(True)
+        questions.have_intense_headpain(True)
+        questions.have_fast_heart(True)
+        questions.have_postrate(True)
+        questions.have_dry_tounge(True)
+
+have_patient_typhoid_fever_113
+    use have_patient_typhoid_fever()
+    when
+        questions.have_constipation(True)
+        questions.have_intense_headpain(True)
+        questions.have_fast_heart(True)
+        questions.have_postrate(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_114
+    use have_patient_typhoid_fever()
+    when
+        questions.have_constipation(True)
+        questions.have_intense_headpain(True)
+        questions.have_fast_heart(True)
+        questions.have_dry_tounge(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_115
+    use have_patient_typhoid_fever()
+    when
+        questions.have_constipation(True)
+        questions.have_intense_headpain(True)
+        questions.have_postrate(True)
+        questions.have_dry_tounge(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_116
+    use have_patient_typhoid_fever()
+    when
+        questions.have_constipation(True)
+        questions.have_fever(True)
+        questions.have_fast_heart(True)
+        questions.have_postrate(True)
+        questions.have_dry_tounge(True)
+
+have_patient_typhoid_fever_117
+    use have_patient_typhoid_fever()
+    when
+        questions.have_constipation(True)
+        questions.have_fever(True)
+        questions.have_fast_heart(True)
+        questions.have_postrate(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_118
+    use have_patient_typhoid_fever()
+    when
+        questions.have_constipation(True)
+        questions.have_fever(True)
+        questions.have_fast_heart(True)
+        questions.have_dry_tounge(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_119
+    use have_patient_typhoid_fever()
+    when
+        questions.have_constipation(True)
+        questions.have_fever(True)
+        questions.have_postrate(True)
+        questions.have_dry_tounge(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_120
+    use have_patient_typhoid_fever()
+    when
+        questions.have_constipation(True)
+        questions.have_fast_heart(True)
+        questions.have_postrate(True)
+        questions.have_dry_tounge(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_121
+    use have_patient_typhoid_fever()
+    when
+        questions.have_intense_headpain(True)
+        questions.have_fever(True)
+        questions.have_fast_heart(True)
+        questions.have_postrate(True)
+        questions.have_dry_tounge(True)
+
+have_patient_typhoid_fever_122
+    use have_patient_typhoid_fever()
+    when
+        questions.have_intense_headpain(True)
+        questions.have_fever(True)
+        questions.have_fast_heart(True)
+        questions.have_postrate(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_123
+    use have_patient_typhoid_fever()
+    when
+        questions.have_intense_headpain(True)
+        questions.have_fever(True)
+        questions.have_fast_heart(True)
+        questions.have_dry_tounge(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_124
+    use have_patient_typhoid_fever()
+    when
+        questions.have_intense_headpain(True)
+        questions.have_fever(True)
+        questions.have_postrate(True)
+        questions.have_dry_tounge(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_125
+    use have_patient_typhoid_fever()
+    when
+        questions.have_intense_headpain(True)
+        questions.have_fast_heart(True)
+        questions.have_postrate(True)
+        questions.have_dry_tounge(True)
+        questions.have_abdominal_shrink_rash(True)
+
+have_patient_typhoid_fever_126
+    use have_patient_typhoid_fever()
+    when
+        questions.have_fever(True)
+        questions.have_fast_heart(True)
+        questions.have_postrate(True)
+        questions.have_dry_tounge(True)
+        questions.have_abdominal_shrink_rash(True)
+
