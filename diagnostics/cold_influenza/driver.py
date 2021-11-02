@@ -2,7 +2,7 @@ import contextlib
 import sys
 import time
 
-from pyke import knowledge_engine, krb_traceback, goal, ask_wx
+from pyke import knowledge_engine, krb_traceback, goal
 
 
 engine = knowledge_engine.engine(__file__)
