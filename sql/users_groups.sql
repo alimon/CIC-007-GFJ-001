@@ -18,6 +18,6 @@ INSERT INTO user_type VALUES(1, "Admin");
 INSERT INTO user_type VALUES(2, "Physician");
 INSERT INTO user_type VALUES(3, "Reviewer");
 
-INSERT INTO user VALUES(1, 1, "Anibal", "Limon Belmares", "alimon_admin", "notcryptpass", 1);
-INSERT INTO user VALUES(2, 2, "Anibal", "Limon Belmares", "alimon_phy", "notcryptpass", 1);
-INSERT INTO user VALUES(3, 3, "Anibal", "Limon Belmares", "alimon_rev", "notcryptpass", 1);
+INSERT INTO user VALUES(1, 1, "Anibal", "Limon Belmares", "alimon_admin", "notcryptpass1", 1);
+INSERT INTO user VALUES(2, 2, "Anibal", "Limon Belmares", "alimon_phy", "notcryptpass2", 1);
+INSERT INTO user VALUES(3, 3, "Anibal", "Limon Belmares", "alimon_rev", "notcryptpass3", 0);
