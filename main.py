@@ -40,6 +40,8 @@ if __name__ == '__main__':
         print("Usuario inactivo")
         sys.exit(1)
 
+    print("Usuario: {} {}, Tipo {}".format(user[0], user[1], user[3]))
+
     print()
     print("Selecciona la posible enfermedad a diagnosticar:")
     idx = 1
